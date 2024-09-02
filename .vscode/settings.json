@@ -1,0 +1,8 @@
+{
+    "amazonQ.suppressPrompts": {
+        "createCredentialsProfile": false,
+        "codeWhispererNewWelcomeMessage": false,
+        "codeWhispererConnectionExpired": false,
+        "amazonQWelcomePage": true
+    }
+}
